@@ -231,8 +231,6 @@ Contributions welcome! Ideas for improvement:
 
 - **Mathematical Background**: See `rsa_math_explained.md` for detailed mathematical explanations
 - **RSA Algorithm**: [Wikipedia - RSA Cryptosystem](https://en.wikipedia.org/wiki/RSA_(cryptosystem))
-- **Applied Cryptography**: Bruce Schneier's "Applied Cryptography"
-- **Production Crypto**: Python `cryptography` library documentation
 
 ## ⚠️ Important Notice
 
