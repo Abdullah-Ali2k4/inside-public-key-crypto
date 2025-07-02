@@ -33,7 +33,7 @@ print(f"Bob's message: {decrypted}")  # Output: 42
 ## 📁 Project Structure
 
 ```
-rsa-communication/
+inside-public-key-crypto/
 ├── 📄 public_key_crypto.py     # Core RSA classes (Client/Server)
 ├── 🔧 helper.py               # Utility functions (primes, GCD)
 ├── 👥 Bob-Alice.py            # 3-party communication demo
